@@ -9,7 +9,7 @@
 ## Steps
 - First we need to give the database file first.
 
-`| ?- ['test.pl'].`
+`| ?- ['test1.pl'].`
 
 - The database will be loaded. Then we can start with giving the queries.
 
